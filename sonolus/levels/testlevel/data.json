@@ -1,0 +1,15 @@
+{
+  "bgmOffset": 0,
+  "entities": [
+    { "type": "Init" },
+    { "type": "Stage" },
+
+    { "type": "BpmChange", "beat": 0, "bpm": 120 },
+
+    { "type": "Note", "beat": 2 },
+    { "type": "Note", "beat": 4 },
+    { "type": "Note", "beat": 6 },
+    { "type": "Note", "beat": 8 },
+    { "type": "Note", "beat": 10 }
+  ]
+}
