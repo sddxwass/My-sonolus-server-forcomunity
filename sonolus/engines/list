@@ -1,0 +1,37 @@
+{
+  "pageCount": 1,
+  "items": [
+    {
+      "name": "pjsekai",
+      "version": 13,
+      "title": "Project Sekai Engine",
+      "subtitle": "Fan recreation",
+      "author": "Community",
+      "tags": [],
+      "thumbnail": {
+        "type": "png",
+        "hash": "thumbnail"
+      },
+      "playData": {
+        "type": "bin",
+        "hash": "playData"
+      },
+      "watchData": {
+        "type": "bin",
+        "hash": "watchData"
+      },
+      "previewData": {
+        "type": "bin",
+        "hash": "previewData"
+      },
+      "tutorialData": {
+        "type": "bin",
+        "hash": "tutorialData"
+      },
+      "configuration": {
+        "type": "json",
+        "hash": "configuration"
+      }
+    }
+  ]
+}
